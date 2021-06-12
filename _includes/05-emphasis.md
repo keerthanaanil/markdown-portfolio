@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*computer science is very intresting*
+_It has huge scopes like _
+
+**Frontend and backend developers**
+__deep learning and machine learning__
+
+_It is easy to learn **python** _
